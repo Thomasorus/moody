@@ -1,2 +1,3 @@
 # moody
-mood tracker
+
+a mood tracker project in janet (for now)
